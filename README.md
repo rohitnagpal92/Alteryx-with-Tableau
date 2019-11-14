@@ -1,2 +1,2 @@
 # Alteryx-with-Tableau
-How to use Alteryx for Tableau
+Attachec document describe the different options where Alteryx can be used for Tableau.
